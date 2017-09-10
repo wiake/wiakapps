@@ -1,1 +1,9 @@
+No makefile is provided because the compilation structure is so simple.
 
+To compile wiak, all you need to do is enter:
+
+gcc wiak.c -o wiak
+
+(wiak will automatically include its header file wiakappswiak.h)
+
+The same applies to the other members of the wiak family (e.g. wiakf.c)
