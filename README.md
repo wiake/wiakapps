@@ -1,3 +1,28 @@
+[quote="mcewanw-25April2009"]
+
+["wiak" is actually a team of four programmers at wiak.org (EDIT: site no longer online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated].
+
+Lead developer: William (aka mcewanw)
+...
+I must say that I agree with ttuuxxx about gtkdialog (with bash); I've always hated it. I much prefer C programming and a better GUI toolkit that doesn't leave processes running around out of control. gtkdialog is fine for only the simplest of apps (such as Pwget) but anything beyond that and it isn't quite so nice to program as it first seems... very messy.
+
+Vala/Genie (C under the hood) indeed looks like a good way to go for low-bloat application/Puppy-utilities.
+
+[William]
+
+[/quote]
+
+One of the 'products' of wiak team was called 'wiak', written in C in 2008, which:
+
+"provides IPC (InterProcessCommunication) facilities (such as SysV message-passing queues) . . . to languages that don't have easy, flexible or any access to them (such as bash script). It also works well with the likes of gtkdialog to create event driven GUI or commandline user interfaces. . . . It is intended that wiak will eventually provide UNIX and INET socket capability
+. . . [wiak] facilitates the creation of different clients for the same backend server(s), or indeed, different backend server(s) for the same GUI-client."
+
+The wiak IPC program binary was also used in foksyfeyer dotpet addon for visually-impaired (or totally blind) users of Puppy linux in 2009.
+
+The persona of mcewanw (aka William), by request to moderator Flash, however closed his murga-forum membership account some months ago to avoid the persistent trolling of some Puppy forum members. Unfortunately, a few development ideas squashed that retirement idea temporarily hence the (failed) attempt to avoid further interruptions to development work via the team identity "wiak to try and keep the general and the technical separated". Ironically, ruffwoof has been once of the most useful testers of makepup, and I thank him for that (I find it easy to put past differences behind in general...). I remain as having no issues with either Toni or Fred, though I hope they will take care not to damage Puppy itself through their continuing great productions.
+
+wiak
+
 # wiakapps
 
 First published: Dec 2007
