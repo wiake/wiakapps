@@ -19,9 +19,7 @@ One of the 'products' of wiak team was called 'wiak', written in C in 2008, whic
 
 The wiak IPC program binary was also used in foksyfeyer dotpet addon for visually-impaired (or totally blind) users of Puppy linux in 2009.
 
-The persona of mcewanw (aka William), by request to moderator Flash, however closed his murga-forum membership account some months ago to avoid the persistent trolling of some Puppy forum members. Unfortunately, a few development ideas squashed that retirement idea temporarily hence the (failed) attempt to avoid further interruptions to development work via the team identity "wiak to try and keep the general and the technical separated". Ironically, ruffwoof has been once of the most useful testers of makepup, and I thank him for that (I find it easy to put past differences behind in general...). I remain as having no issues with either Toni or Fred, though I hope they will take care not to damage Puppy itself through their continuing great productions.
-
-wiak
+The persona of mcewanw (aka William) requested forum moderator Flash, however, to close his murga-forum membership account in mid-2017 in an attempt to avoid further persistent trolling of some Puppy forum members. Now using team wiak login to complete some final development work for Puppy Linux.
 
 # wiakapps
 
