@@ -12,6 +12,25 @@ The wiak IPC program binary was also used in foksyfeyer dotpet addon for visuall
 
 # wiakapps
 
+ Welcome to the Home of the WIAK Suite of Applications
+
+    WIAK(TM) is:
+
+    A family of programmers
+
+    The magicians behind the multiple personalities of the modular wiakapps
+
+    A philosophy and methodology for programming which simplifies User Interface code
+
+    A shell for Inter-Process Communications which WIAK(S) --UP the sleeping components of a wiakapp(TM)
+
+    A versatile and super-lightweight building block which works well, with gtkdialog or C or . . . , even from the commandline
+
+
+WIAK Record, shown below, is one of wiak's progeny.
+
+Click any of its buttons to see and find downloads for the rest of the family
+
 First published: Dec 2007
 
 What Is WIAK?
