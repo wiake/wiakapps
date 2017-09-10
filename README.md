@@ -1,6 +1,6 @@
 quote="mcewanw-25April2009"
 
-["wiak" is actually a team of five programmers at wiak.org (EDIT: site no longer active online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated].
+["wiak" is actually a team of five programmers at wiak organisation (EDIT: website currently no longer active online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated].
 
 Lead developer: William (aka mcewanw)
 ...
