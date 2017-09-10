@@ -1,8 +1,6 @@
 quote="mcewanw-25April2009"
 
 ["wiak" is actually a team of five programmers at wiak organisation (EDIT: website currently no longer active online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated].
-
-Lead developer: William (aka mcewanw)
 ...
 
 One of the 'products' of wiak team was called 'wiak', written in C in 2008, which:
@@ -11,8 +9,6 @@ One of the 'products' of wiak team was called 'wiak', written in C in 2008, whic
 . . . [wiak] facilitates the creation of different clients for the same backend server(s), or indeed, different backend server(s) for the same GUI-client."
 
 The wiak IPC program binary was also used in foksyfeyer dotpet addon for visually-impaired (or totally blind) users of Puppy linux in 2009.
-
-The persona of mcewanw (aka William) requested forum moderator Flash, however, to close his murga-forum membership account in mid-2017 in an attempt to avoid further persistent trolling of some Puppy forum members (serious disruption to developments common there nowadays unfortunately). Now using team wiak login to complete some final development work for Puppy Linux as quietly as possible... before public retirement in near future.
 
 # wiakapps
 
