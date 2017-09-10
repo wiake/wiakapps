@@ -1,5 +1,7 @@
 # wiakapps
 
+First published: Dec 2007
+
 What Is WIAK?
 Wiak is a simple, limited, but very efficient, special-purpose, usually non-interactive, extremely lightweight IPC shell written in C.
 
