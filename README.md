@@ -3,7 +3,7 @@ quote="25April2009"
 "wiak" is actually a team of six at wiak organisation (EDIT: website currently no longer active online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated.
 ...
 
-One of the 'products' of wiak team was called 'wiak', written in C in 2008, which:
+One of the 'products' of wiak team was called 'wiak', written in C for Ubuntu systems (and tested on Puppy Linux) in 2008, which:
 
 "provides IPC (InterProcessCommunication) facilities (such as SysV message-passing queues) . . . to languages that don't have easy, flexible or any access to them (such as bash script). It also works well with the likes of gtkdialog to create event driven GUI or commandline user interfaces. . . . It is intended that wiak will eventually provide UNIX and INET socket capability
 . . . [wiak] facilitates the creation of different clients for the same backend server(s), or indeed, different backend server(s) for the same GUI-client."
