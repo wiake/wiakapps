@@ -1,6 +1,6 @@
 quote="25April2009"
 
-"wiak" is actually a team of five programmers at wiak organisation (EDIT: website currently no longer active online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated.
+"wiak" is actually a team of six programmers at wiak organisation (EDIT: website currently no longer active online); so that identity is generally used in threads concerned with programming work in wiak to try and keep the general and the technical separated.
 ...
 
 One of the 'products' of wiak team was called 'wiak', written in C in 2008, which:
